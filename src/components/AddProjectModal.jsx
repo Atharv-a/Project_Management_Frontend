@@ -65,7 +65,7 @@ export default function AddProjectModal() {
           <div className="modal-content">
             <div className="modal-header">
               <h1 className="modal-title fs-5" id="addProjectModalLabel">
-                Add Client
+                Add Project
               </h1>
               <button
                 type="button"
